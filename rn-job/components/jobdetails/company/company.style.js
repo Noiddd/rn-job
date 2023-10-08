@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
     fontSize: SIZES.medium - 2,
     color: COLORS.gray,
     fontFamily: FONT.regular,
-    marginLeft: 2,
+    marginLeft: 1,
   },
 });
 
